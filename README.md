@@ -6,6 +6,7 @@ GitHub Pages機能を使って公開されたページは[こちら](https://elm
 真央教授
 エルマス
 わかば
+テスト
 
 https://elmas3.github.io/mao-seminar/
 
